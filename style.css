@@ -1,0 +1,36 @@
+.external-container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.container {
+    margin-bottom: 15px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    background-color: #006cfa;
+    text-align: center;
+    border: 1px solid white;
+    padding: 5px;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box3 {
+    background-color: #00e165;
+    text-align: center;
+    border: 1px solid #006cfa;
+    padding: 5px;
+    color: white;
+}
+
