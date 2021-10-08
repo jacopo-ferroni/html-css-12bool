@@ -1,6 +1,6 @@
 .external-container {
     max-width: 1170px;
-    margin: 0 auto;
+    margin: 5px auto;
 }
 
 .container {
@@ -34,3 +34,44 @@
     color: white;
 }
 
+.black {
+    background-color: black;
+    border: 1px solid black;
+    height: 96px;
+}
+
+.grey {
+    background-color: grey;
+    border: 1px solid black;
+    height: 96px;
+}
+
+.green {
+    background-color: greenyellow;
+    border: 1px solid black;
+    height: 96px;
+}
+
+.blu {
+    background-color: teal;
+    border: 1px solid black;
+    height: 96px;
+}
+
+.orange {
+    background-color: orange;
+    border: 1px solid black;
+    height: 96px;
+}
+
+.yellow {
+    background-color: yellow;
+    border: 1px solid black;
+    height: 96px;
+}
+
+.pink {
+    background-color: violet;
+    border: 1px solid black;
+    height: 96px;
+}
